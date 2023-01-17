@@ -93,7 +93,7 @@ Snap is like chocolatey on windows:
 
 sudo snap install discord
 
-I onda samo pokrenite discord naredbom:
+Then just run it:
 
 sudo /snap/bin/discord
 
