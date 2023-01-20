@@ -10,7 +10,6 @@ which probably nobody is doing.
 160 gigapixels per second = ultrahd
 
 [fps]
-
 DX12: 1000 GFLOPS = 15 fps
 DX11: 1000 GFLOPS = 30 fps
 DX10: 1000 GFLOPS = 60 fps
