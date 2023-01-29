@@ -8,12 +8,10 @@ e) 4 attackers = close down much more
 
 2. Set TI depending on number of defenders:
 
-a) 3 defenders = retain posession + shorter passing
-b) 4 defenders = retain possession
-c) 5 defenders = shorter passing
-d) 6 defenders = mixed passing
-e) 7 defenders = direct passing
-f) 8 defenders = go route one
+a) 3 defenders = shorter passing
+b) 4 defenders = mixed passing
+c) 5 defenders = direct passing
+d) 6 defenders = go route one
 
 3. Fluidity meaning:
 
