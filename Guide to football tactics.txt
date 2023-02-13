@@ -1,17 +1,17 @@
 1. Set TI depending on number of attackers:
 
-a) 0 attackers = close down much less
-b) 1 attacker = close down less
-c) 2 attackers = mixed
-d) 3 attackers = close down more
-e) 4 attackers = close down much more
+a) 1 attacker = shorter passing
+b) 2 attackers = mixed
+c) 3 attackers = direct passing
+d) 4 attackers = go route one
 
 2. Set TI depending on number of defenders:
 
-a) 3 defenders = shorter passing
-b) 4 defenders = mixed passing
-c) 5 defenders = direct passing
-d) 6 defenders = go route one
+a) 3 defenders = close down much less
+b) 4 defenders = close down less
+c) 5 defenders = normal
+d) 6 defenders = close down more
+e) 7 defenders = close down much more
 
 3. Fluidity meaning:
 
@@ -47,4 +47,4 @@ f) defensive = AMC
 g) contain = ST
 
 6. Changing fluidity and mentality will make your team weaker (if you decrease it), or too tired before match is over (if you increase it).
-Instead, change pressing instead of fluidity, and passing instead of mentality.
+Instead, change pressing instead of mentality, and passing instead of fluidity. An even better approach is to simply adjust formation.
