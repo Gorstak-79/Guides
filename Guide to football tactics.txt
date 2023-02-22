@@ -70,5 +70,5 @@ d) structured = you have a team that just met
 e) highly structured = good for amateurs and youngsters to learn positioning and see their potential
 
 8. Changing fluidity and mentality will make your team weaker (if you decrease it), or too tired before match is over (if you increase it).
-Instead, change pressing instead of mentality, and passing instead of fluidity. An even better approach is to simply adjust formation.
+Instead, change pressing instead of fluidity, and passing instead of mentality. An even better approach is to simply adjust formation.
 You can also adjust all 6 of them, but it may lead to unpredictable things.
