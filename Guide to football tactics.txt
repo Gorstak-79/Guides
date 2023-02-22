@@ -1,7 +1,7 @@
 1. Set TI depending on number of attackers:
 
 a) 0 attackers = shorter passing + retain posession = defensive
-b) 1 attackers = shorter passing = counter
+b) 1 attacker = shorter passing = counter
 c) 2 attackers = mixes passing = standard
 d) 3 attackers = direct passing = control
 e) 4 attackers = go route one = attacking
