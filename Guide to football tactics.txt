@@ -1,17 +1,18 @@
 1. Set TI depending on number of attackers:
 
-a) 1 attacker = shorter passing
-b) 2 attackers = mixed
-c) 3 attackers = direct passing
-d) 4 attackers = go route one
+a) 0 attackers = shorter passing + retain posession = defensive
+b) 1 attackers = shorter passing = counter
+c) 2 attackers = mixes passing = standard
+d) 3 attackers = direct passing = control
+e) 4 attackers = go route one = attacking
 
 2. Set TI depending on number of defenders:
 
-a) 3 defenders = close down much less
-b) 4 defenders = close down less
-c) 5 defenders = normal
-d) 6 defenders = close down more
-e) 7 defenders = close down much more
+a) 3 defenders = close down much less = highly structured
+b) 4 defenders = close down less = structured
+c) 5 defenders = normal = flexible
+d) 6 defenders = close down more = fluid
+e) 7 defenders = close down much more = very fluid
 
 3. Fluidity meaning:
 
@@ -21,7 +22,7 @@ c) flexible = players play assigned duties
 d) fluid = players can bypass role and duty
 e) very fluid = players can bypass role and duty and mentality
 
-4. Set support duties depending on fluidity (1 less if 3 CB's)
+4. Set support duties depending on fluidity lower figure if 3 CB's)
 
 a) highly structured = 0-1 support duties
 b) structured = 2-3 support duties
@@ -46,5 +47,28 @@ e) counter = MC
 f) defensive = AMC
 g) contain = ST
 
-6. Changing fluidity and mentality will make your team weaker (if you decrease it), or too tired before match is over (if you increase it).
+6. Mentality and fluidity effect (or passing and closing down)
+
+a) more fluid = better decisions, better tackling, more pressing, better teamwork, better with referee
+b) less fluid = dumb decisions, better positioning, make yourself a punching bag, more cards, better individual quality
+
+c) more agressive = more shots, more shots converted to goals, football fans will like, longer passes, shots from deep, more injuries
+d) less agressive = fewer shots, more misses, better against stronger opponent, more shorter passes, requires better players, better when away from home, unattractive
+
+7. When to employ any tactic
+
+a? attacking = against a club a league or two lower then you
+b) control = at home against a weaker team, to please the fans
+c) standard = when you are uncertain what to expect or you just need a draw
+d) counter = against a stronger opponent or when away from home
+e) defensive = if you want to scrape 1:0 or 0:0 and go to penalties
+
+a) very fluid = when you have godly players that will decide which mentality to employ by themselves 
+b) fluid = when you want high chance creation and dressing room atmosphere is good
+c) flexible = when you feel you can't ask your players to give more then they've got
+d) structured = you have a team that just met
+e) highly structured = good for amateurs and youngsters to learn positioning and see their potential
+
+8. Changing fluidity and mentality will make your team weaker (if you decrease it), or too tired before match is over (if you increase it).
 Instead, change pressing instead of mentality, and passing instead of fluidity. An even better approach is to simply adjust formation.
+You can also adjust all 6 of them, but it may lead to unpredictable things.
