@@ -22,7 +22,7 @@ c) flexible = players play assigned duties
 d) fluid = players can bypass role and duty
 e) very fluid = players can bypass role and duty and mentality
 
-4. Set support duties depending on fluidity lower figure if 3 CB's)
+4. Set support duties depending on fluidity (lower figure if 3 CB's)
 
 a) highly structured = 0-1 support duties
 b) structured = 2-3 support duties
