@@ -2,7 +2,7 @@
 
 a) 0 attackers = shorter passing + retain posession = defensive
 b) 1 attacker = shorter passing = counter
-c) 2 attackers = mixes passing = standard
+c) 2 attackers = mixed passing = standard
 d) 3 attackers = direct passing = control
 e) 4 attackers = go route one = attacking
 
@@ -57,7 +57,7 @@ d) less agressive = fewer shots, more misses, better against stronger opponent, 
 
 7. When to employ any tactic
 
-a? attacking = against a club a league or two lower then you
+a) attacking = against a club a league or two lower then you
 b) control = at home against a weaker team, to please the fans
 c) standard = when you are uncertain what to expect or you just need a draw
 d) counter = against a stronger opponent or when away from home
